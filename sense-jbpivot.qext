@@ -1,0 +1,13 @@
+{
+	"name" : "sense-jbpivot",
+	"description" : "JB Pivot Table Visualisation Object",
+	"preview": "sense-jbpivot.png",
+	"type" : "visualization",
+	"version": "2.0.0",
+	"author": "Qlik",
+	"homepage" : "www.QlikShare.com",
+	"keywords" : "qlik-sense, visualization, pivot",
+	"license" : "MIT",
+	"repository" : "",
+    "dependencies" : { "qlik-sense" : ">=2.1.x" }
+}
